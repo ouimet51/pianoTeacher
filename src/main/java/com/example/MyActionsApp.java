@@ -334,17 +334,3 @@ public class MyActionsApp extends DialogflowApp {
   
 }
 
-
-
-// TODO
-// Add additional ways for a student to learn
-// add some suggestion chips -> https://developers.google.com/assistant/conversational/rich-responses#suggestion_chips
-// use SSML to make the conversation feel a bit more natural (https://developers.google.com/assistant/actions/reference/ssml/>
-// Add a Who do I for scales
-// Add first timer language for chord practice
-// Link out to additional details for the scale fingerings.
-// Update genre for backing tracks
-// Get rid of the " don't worry about playing alot of notes just find the pretty ones" - only say once
-// Change images for rock and jazz backing tracks
-// Nice using a metronome will make you a better musician - only once!\
-// make sure we have a line for all chords and scales
